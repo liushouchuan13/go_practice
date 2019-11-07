@@ -1,6 +1,8 @@
 package v2
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type Bitcoin int
 
